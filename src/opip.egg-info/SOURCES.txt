@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/opip/__init__.py
+src/opip/__main__.py
+src/opip/config.toml
+src/opip.egg-info/PKG-INFO
+src/opip.egg-info/SOURCES.txt
+src/opip.egg-info/dependency_links.txt
+src/opip.egg-info/entry_points.txt
+src/opip.egg-info/requires.txt
+src/opip.egg-info/top_level.txt
